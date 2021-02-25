@@ -1,0 +1,6 @@
+C:\Users\Бушуев\RiderProjects\Homework_2\Homework_2\bin\Debug\Homework_2.exe
+C:\Users\Бушуев\RiderProjects\Homework_2\Homework_2\bin\Debug\Homework_2.pdb
+C:\Users\Бушуев\RiderProjects\Homework_2\Homework_2\obj\Debug\Homework_2.csprojAssemblyReference.cache
+C:\Users\Бушуев\RiderProjects\Homework_2\Homework_2\obj\Debug\Homework_2.csproj.CoreCompileInputs.cache
+C:\Users\Бушуев\RiderProjects\Homework_2\Homework_2\obj\Debug\Homework_2.exe
+C:\Users\Бушуев\RiderProjects\Homework_2\Homework_2\obj\Debug\Homework_2.pdb
